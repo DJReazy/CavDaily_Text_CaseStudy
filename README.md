@@ -19,7 +19,7 @@ You will analyze two datasets of article titles (News and Opinion) and:
 
 ## Repository Structure
 
-'''
+```
 
 UVA_DS_4002_Group_4_Project_1_text_data/
 │
@@ -58,7 +58,7 @@ UVA_DS_4002_Group_4_Project_1_text_data/
 ├── Do Headlines Tell Different Stories_.pdf
 └── README.md
 
-'''
+```
 
 ## Getting Started
 
