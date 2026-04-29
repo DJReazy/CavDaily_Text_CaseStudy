@@ -26,13 +26,33 @@ Opinion_Uncleaned.csv
 Opinion_cleaned.csv
 
 OUTPUT/
-News/
 
+News/
+news_cleaned_summary.csv
+news_token_length_distribution.png
+news_top10.png
+news_top20_words.png
+news_word_frequency_distribution.png
+
+Opinion/
+opinion_cleaned_summary.csv
+opinion_token_length_distribution.png
+opinion_top10.png
+opinion_top20_words.png
+opinion_word_frequency_distribution_.png
+
+
+title_length_boxplot.png
+word_frequency_table.csv
 
 SCRIPTS/
 Analysis.ipynb
+Cleaning.ipynb
 
 REFERENCES/
 bag_of_words_explainer.pdf
 chi_square_reference.pdf
 
+Case Study Rubric.pdf
+Do Headlines Tell Different Stories_.pdf
+README.md
