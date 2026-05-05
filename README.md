@@ -68,10 +68,8 @@ UVA_DS_4002_Group_4_Project_1_text_data/
 4. Use the outputs to guide your analysis
 5. Refer to the rubric for full instructions
 
-## Notes
-- The dataset has already been cleaned to allow you to focus on analysis
-- Example outputs are provided for reference only
-- Your results may vary slightly depending on implementation
+## Note
+This case study focuses on interpretation and analysis rather than coding. Students will work with provided outputs and guided explanations to draw conclusions about text patterns.
 
 ## Deliverable
 A short written report (1–2 pages) summarizing your findings, including:
@@ -79,5 +77,6 @@ A short written report (1–2 pages) summarizing your findings, including:
 - Visualizations
 - Chi-square test results
 - Interpretation of results
+
 
 
